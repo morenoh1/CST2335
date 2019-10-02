@@ -4,9 +4,6 @@
     android:layout_height="wrap_content"
     android:orientation="vertical">
 
-    <?XML version="1.0" encoding="UTF-8"?>
-    <TagA>   < TagB />   <TagB> </TagB> </TagA>
-
 
     <TextView
         android:layout_width="match_parent"

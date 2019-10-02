@@ -2,10 +2,23 @@
 <resources>
     <string name="app_name">Android Labs</string>
     <string name="hello_message">Hola Mundo!</string>
-    <string name="ButtonText">Soy un boton</string>
+    <string name="button">Soy un boton</string>
     <string name="message1">Mira mi GUI</string>
     <string name="button1">Haga clic aqui</string>
     <string name="checkbox1">Mirar esto</string>
     <string name="switchonoff">Prender/Apagar</string>
     <string name="editbox">Escribir aqui</string>
+    // lab3
+    <string name="textbox">Pone su correo electronico</string>
+    <string name="pwtextbox">Pone su contrasena</string>
+    <string name="emailhint">Pone su correo electronico</string>
+    <string name="button2">el login</string>
+    //profileactivity
+    <string name="yourprofile">Tu perfil</string>
+    <string name="Yourname">Tu nombre</string>
+    <string name="Enteryourname">Pone su nombre</string>
+    <string name="youremail">Su correo electronico</string>
+    <string name="enteryouremail">pone su correo electronico</string>
+    <string name="yourpicture">Su Imagen</string>
+    <string name="Click4picture">haga clic para tomar una foto</string>
 </resources>

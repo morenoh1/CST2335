@@ -1,10 +1,23 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Android Labs</string>
     <string name="hello_message">Hello World!</string>
-    <string name="ButtonText">I\’m a button</string>
+    <string name="button">I\’m a button</string>
     <string name="message1">Look at my GUI</string>
     <string name="button1">Click Here</string>
     <string name="checkbox1">Check this out!</string>
     <string name="switchonoff">Switch on/off</string>
     <string name="editbox">Type Here</string>
+    // lab3
+    <string name="textbox">Enter your email address:</string>
+    <string name="pwtextbox">Type your password:</string>
+    <string name="emailhint">Type email here</string>
+    <string name="button2">Login</string>
+    //profileactivity
+    <string name="yourprofile">Your profile</string>
+    <string name="Yourname">Your name:</string>
+    <string name="Enteryourname">Enter your name</string>
+    <string name="youremail">Your email:</string>
+    <string name="enteryouremail">Enter your email</string>
+    <string name="yourpicture">Your picture:</string>
+    <string name="Click4picture">Click the button above to take a picture</string>
 </resources>
