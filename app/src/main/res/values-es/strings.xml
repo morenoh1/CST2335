@@ -21,4 +21,5 @@
     <string name="enteryouremail">pone su correo electronico</string>
     <string name="yourpicture">Su Imagen</string>
     <string name="Click4picture">haga clic para tomar una foto</string>
+    <string name="goToChatButton">Va a </string>
 </resources>

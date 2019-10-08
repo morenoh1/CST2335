@@ -20,4 +20,9 @@
     <string name="enteryouremail">Enter your email</string>
     <string name="yourpicture">Your picture:</string>
     <string name="Click4picture">Click the button above to take a picture</string>
+    //chat room activity
+    <string name="goToChatButton">Go to chat</string>
+    <string name="typeHere">Type Here</string>
+
 </resources>
+

@@ -41,6 +41,15 @@ public class ProfileActivity extends AppCompatActivity {
             dispatchTakePictureIntent();
         });
 
+        Button goToChatButton = (Button) findViewById(R.id.goToChatButton);
+        goToChatButton.setOnClickListener(v -> {
+            Intent goToChatRoomActivity = new Intent(ProfileActivity.this, ChatRoomActivity.class);
+          //  goToChatRoomActivityActivity.putExtra("emailAd", email.getText().toString());
+            startActivityForResult(goToChatRoomActivity, 30);
+
+
+        });
+
     }
 
 
