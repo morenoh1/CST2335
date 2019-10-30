@@ -22,4 +22,8 @@
     <string name="yourpicture">Su Imagen</string>
     <string name="Click4picture">haga clic para tomar una foto</string>
     <string name="goToChatButton">Va a </string>
+    <string name="typeHere">Escribir aqui</string>
+    <string name="send">Mandar</string>
+    <string name="receive">Recibir</string>
+
 </resources>

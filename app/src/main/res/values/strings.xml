@@ -23,6 +23,7 @@
     //chat room activity
     <string name="goToChatButton">Go to chat</string>
     <string name="typeHere">Type Here</string>
-
+    <string name="send">Send</string>
+    <string name="receive">Receive</string>
 </resources>
 
