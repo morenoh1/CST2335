@@ -25,5 +25,10 @@
     <string name="typeHere">Type Here</string>
     <string name="send">Send</string>
     <string name="receive">Receive</string>
+    <string name="currentTemp">Current Temp</string>
+    <string name="minTemp">Min Temp</string>
+    <string name="maxTemp">Max Temp</string>
+    <string name="UV">UV</string>
+    <string name="goToWeatherButton">Weather Forecast</string>
 </resources>
 
