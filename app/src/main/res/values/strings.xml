@@ -30,5 +30,9 @@
     <string name="maxTemp">Max Temp</string>
     <string name="UV">UV</string>
     <string name="goToWeatherButton">Weather Forecast</string>
+    <string name="goToToolbar">Test Toolbar</string>
+    <string name="icon1">Icon1</string>
+    <string name="icon2">Icon2</string>
+    <string name="icon3">Icon 3</string>
 </resources>
 

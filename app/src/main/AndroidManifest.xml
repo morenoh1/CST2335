@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.andriodlabs">
+
     <uses-permission android:name="android.permission.INTERNET" />
 
     <uses-feature
@@ -16,14 +17,14 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".ChatRoomActivity"></activity>
+        <activity android:name=".TestToolbar"></activity>
+        <activity android:name=".ChatRoomActivity" />
         <activity android:name=".ProfileActivity" />
-        <activity android:name=".WeatherForecast"/>
+        <activity android:name=".WeatherForecast" />
         <activity android:name=".MainActivity">
-
-
-        <intent-filter>
+            <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
